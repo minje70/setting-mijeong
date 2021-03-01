@@ -1,2 +1,7 @@
-# setting-mijeong
-this is my git, terminal, vscode, etc... setting git
+# 한글로 정리하자!!! 영어보면 멀미나!! (영어 공부는 틈틈히!!)
+
+## 2021/03/01(월)
+
+### 탭을 공백이 아닌 탭으로 설정하는 법
+[블로그](https://tttsss77.tistory.com/63)
+
